@@ -1,3 +1,5 @@
 function foo () {
-  console.log("baekki")
+  console.log("baekki !!!!")
 }
+
+foo();
