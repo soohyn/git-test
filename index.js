@@ -1,3 +1,3 @@
 function foo () {
-  console.log("")
+  console.log("soohyeon")
 }
